@@ -1,0 +1,13 @@
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\bin\Debug\ListaZadan.exe
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\bin\Debug\ListaZadan.pdb
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.csproj.AssemblyReference.cache
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.MainForm.resources
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.Formularze.TodoTaskForm.resources
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.Kontrolki.LoginControl.resources
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.Kontrolki.RegisterControl.resources
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.Kontrolki.TaskControl.resources
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.Properties.Resources.resources
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.csproj.GenerateResource.cache
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.exe
+C:\Users\Mateusz Smuda\Desktop\ListaZadan\ListaZadan\obj\Debug\ListaZadan.pdb

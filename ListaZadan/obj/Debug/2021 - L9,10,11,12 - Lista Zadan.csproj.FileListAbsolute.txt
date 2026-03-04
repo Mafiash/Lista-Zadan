@@ -1,0 +1,25 @@
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\bin\Debug\2021 - L9,10,11,12 - Lista Zadan.exe
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\bin\Debug\2021 - L9,10,11,12 - Lista Zadan.pdb
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.csprojAssemblyReference.cache
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.MainForm.resources
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Kontrolki.LoginControl.resources
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Kontrolki.RegisterControl.resources
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Kontrolki.TaskControl.resources
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Properties.Resources.resources
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.csproj.GenerateResource.cache
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.csproj.CoreCompileInputs.cache
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.exe
+C:\Users\sadma\source\repos\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.pdb
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\bin\Debug\2021 - L9,10,11,12 - Lista Zadan.exe
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\bin\Debug\2021 - L9,10,11,12 - Lista Zadan.pdb
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.csprojAssemblyReference.cache
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.MainForm.resources
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Kontrolki.LoginControl.resources
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Kontrolki.RegisterControl.resources
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Kontrolki.TaskControl.resources
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Properties.Resources.resources
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.csproj.GenerateResource.cache
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.csproj.CoreCompileInputs.cache
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.exe
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\2021 - L9,10,11,12 - Lista Zadan.pdb
+C:\Users\sadma\OneDrive\Pulpit\2021 - L9,10,11,12 - Lista Zadan\2021 - L9,10,11,12 - Lista Zadan\obj\Debug\_2021___L9_10_11_12___Lista_Zadan.Formularze.TodoTaskForm.resources
